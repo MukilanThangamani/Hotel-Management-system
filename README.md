@@ -101,9 +101,3 @@ Enter the number corresponding to your choice to perform the desired action.
 4. Commit your changes (`git commit -am 'Add new feature'`).
 5. Push to the branch (`git push origin feature-branch`).
 6. Open a pull request.
-
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for details.
-
----
